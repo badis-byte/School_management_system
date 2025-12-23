@@ -1,0 +1,15 @@
+release/dialogadmin.o
+release/dialoglogin.o
+release/dialogstudentmenu.o
+release/dialogstudentregister.o
+release/dialogteachermenu.o
+release/dialogteacherregister.o
+release/main.o
+release/mainwindow.o
+release/moc_dialogadmin.o
+release/moc_dialoglogin.o
+release/moc_dialogstudentmenu.o
+release/moc_dialogstudentregister.o
+release/moc_dialogteachermenu.o
+release/moc_dialogteacherregister.o
+release/moc_mainwindow.o

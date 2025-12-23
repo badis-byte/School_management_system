@@ -1,0 +1,15 @@
+debug/dialogadmin.o
+debug/dialoglogin.o
+debug/dialogstudentmenu.o
+debug/dialogstudentregister.o
+debug/dialogteachermenu.o
+debug/dialogteacherregister.o
+debug/main.o
+debug/mainwindow.o
+debug/moc_dialogadmin.o
+debug/moc_dialoglogin.o
+debug/moc_dialogstudentmenu.o
+debug/moc_dialogstudentregister.o
+debug/moc_dialogteachermenu.o
+debug/moc_dialogteacherregister.o
+debug/moc_mainwindow.o
